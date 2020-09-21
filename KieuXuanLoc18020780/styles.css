@@ -1,0 +1,21 @@
+.bodyy{
+	background-color: #F2F5A9;
+}
+.header{
+	display: flex;
+	justify-content: center;
+	grid-template-columns:  1fr 1fr 1fr;
+	margin-top: 20px;
+}
+.image{
+	margin-right: 30px;
+	margin-left: 30px;
+	border: 10px solid transparent;
+}
+.images{
+	border: 10px solid transparent;
+}
+.table{
+	display: flex;
+	margin-left: 555px;
+}
